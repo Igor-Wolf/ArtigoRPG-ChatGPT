@@ -1,0 +1,1 @@
+# ArtigoRPG-ChatGPT
