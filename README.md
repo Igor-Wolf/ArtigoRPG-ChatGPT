@@ -1,6 +1,11 @@
 # Projeto artigo técnico gerado por I.A.s
 
 Esse projeto teve como objetivo a criação de um artigo técnico com leyout rico, e com foco em demonstrar o poder das ferramentas com I.A.s
+Ele pode ser conferido logo abaixo: 
+
+
+<a href="https://www.dio.me/articles/a-proxima-era-do-rpg-como-o-chatgpt-redefine-a-experiencia-no-jogo" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
