@@ -10,7 +10,7 @@ Ele pode ser conferido logo abaixo:
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://www.seaart.ai/) - para gerar imagens
+- [Seaart.art](https://www.seaart.ai/) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 
